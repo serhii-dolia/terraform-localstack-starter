@@ -1,4 +1,5 @@
 Localstack with terraform setup with one lambda function called `test`
+Inspired by this: [Localstack with Terraform and Docker for running AWS locally](https://wormholerelays.com/posts/localstack-with-terraform-and-docker-for-running-aws-locally/)
 
 1. Install aws cli. 
 2. In AWS config (vim ~/.aws/config) add the profile `localstack`
